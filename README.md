@@ -17,7 +17,7 @@ This project implements a system that controls motors and sensors using an Ardui
 - AFMotor Library
 - NewPing Library
 
-## TinerCAD Simulation and Setup
+## TinkerCAD Simulation and Setup
 ![image](https://github.com/user-attachments/assets/976e10ce-ff08-4899-8de6-4c4cfebfd527)
 ![image](https://github.com/user-attachments/assets/732014f3-59f3-486b-ad2f-933e3def951c)
 ![image](https://github.com/user-attachments/assets/ef204842-2108-490e-93e5-d016f1996bec)
